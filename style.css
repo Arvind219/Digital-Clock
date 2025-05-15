@@ -1,0 +1,60 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  background-color: #bb6cf8;
+}
+
+.center {
+  text-align: center;
+}
+
+.container {
+  width: 40%;
+  margin: 5% auto;
+  align-content: center;
+}
+
+.subheading {
+  display: inline;
+  width: 50%;
+  background-color: white;
+  color: #352f5d;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.6vw;
+  font-weight: 600;
+  padding: 2px;
+}
+
+.heading {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 5.4vw;
+  font-weight: bolder;
+  padding: 2px;
+}
+
+.clock {
+  margin: 10% auto 15% auto;
+}
+
+.clock span {
+  color: #352f5d;
+  font-family: 'Roboto', sans-serif;
+  font-size: 6vw;
+  font-weight: 600;
+  padding: 3%;
+  border-radius: 6px;
+}
+
+
+.clock .dot {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  padding: 0;
+}
